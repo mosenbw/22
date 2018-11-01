@@ -14,8 +14,8 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/Aditmadzs/helloworld
-$ cd helloworld
+$ git clone https://github.com/sallakhsystem/sallakh22
+$ cd sallakh22
 $ pip3 install akad
 $ pip3 install beautifulsoup4
 $ pip3 install bs4
@@ -47,37 +47,35 @@ $ pip3 install timeago
 $ pip3 install pillow
 $ pip3 install MoviePy
 $ pip3 install python-magic
-$ python3 helloworld.py
+$ python3 sallakh22.py
 ```
 
 ## VPS
 
 ```sh
-$ git clone https://github.com/Aditmadzs/helloworld
-$ cd helloworld
+$ git clone https://github.com/sallakhsystem/sallakh22
+$ cd sallakh22
 $ python3 -m pip install -r requirements.txt
-$ python3 helloworld.py -a IOSIPAD
+$ python3 sallakh22.py -a IOSIPAD
 ```
+## MY CONTACT LINE :
+[ https://line.me/ti/p/fDkawyMoqD ]
 
 ## LINE Square
-[HelloWorld Square](https://line.me/ti/g2/JGUODBE4RE)
+[team $-K Square](https://line.me/ti/g2/MMNQX3F7P0)
 
 ## Discord
 
-[HelloWorld](https://discord.gg/5jqbutB)
+[ﾑცცﾑ$$ﾑℓℓﾑKԋ](https://discord.gg/~siriv11)
 
 ## Author
-Zero Cool / [@crash-override404](https://github.com/crash-override404)  
-Fadhiil Rachman / [@fadhiilrachman](https://www.instagram.com/fadhiilrachman)  
-Alin / [@muhmursalind](https://github.com/muhmursalind)
+Zero Cool / [@crash-override404](https://github.com/sallakhsystem)  
+ABBAS SALLAKH / [@sallakhsystem](https://www.instagram.com/s1-1366)  
+MISS-S-K / [@MISS-S-K](https://github.com/MISS-S-K)
 
 ## Support
-All Hello World Members :  
-Tanduri a.k.a HelloTan / [@hellotan](https://github.com/hellotan)  
-Fauzan Ardhana / [@fauzanardh](https://github.com/fauzanardh)  
-Moe Poi ~ / [@moepoi](https://github.com/moepoi)  
-Muhammad Fahri / [@FAHRIZTX](https://github.com/FAHRIZTX)  
-Dosugamea / [@Dosugamea](https://github.com/Dosugamea)  
-Dzin / [@dzingans](https://github.com/dzingans)  
- 
-And others.
+All Members TEAM SALLAKH NEW BOT'S:  
+
+And others FRIEND'S.
+
+## DONT FORGET TO TNX FOR ABBAS SALLAKH
