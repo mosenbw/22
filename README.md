@@ -1,11 +1,11 @@
-## For install Tutorial [HERE](https://www.youtube.com/watch?v=tw5OraE7C4c&feature=youtu.be)
+## For install Tutorial [HERE](https://www.instagram.com/s1-1366)
 # LINE Python
 
-*LINE Messaging's private API*
+#@*LINE Messaging's private API@*#
 
 ----
 
-# JANGAN LUPA ADD [ADITMADZS BOT](line.me/ti/p/~botaditmadzs)
+# DID YOU HELP? JUST ADD [ﾑცცﾑS $-K BOT](https://line.me/ti/p/fDkawyMoqD)
 
 ## Termux
 
@@ -69,9 +69,9 @@ $ python3 sallakh22.py -a IOSIPAD
 [ﾑცცﾑ$$ﾑℓℓﾑKԋ](https://discord.gg/~siriv11)
 
 ## Author
-Zero Cool / [@crash-override404](https://github.com/sallakhsystem)  
-ABBAS SALLAKH / [@sallakhsystem](https://www.instagram.com/s1-1366)  
-MISS-S-K / [@MISS-S-K](https://github.com/MISS-S-K)
+sallakh bot / [@sallakhsystem](https://github.com/sallakhsystem)  
+ABBAS SALLAKH / [@sallakhsystem](https://www.instagram.com/s1_1366)  
+MISS-SK / [@MISS-SK](https://github.com/MISS-SK)
 
 ## Support
 All Members TEAM SALLAKH NEW BOT'S:  
